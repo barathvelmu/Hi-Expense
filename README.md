@@ -23,6 +23,12 @@ I also picked up JavaScript in the Summer of 2021. This project let me further e
 ## Hi-Expense
 ![image](https://user-images.githubusercontent.com/69721558/158034079-450a79c5-469b-4b04-8e4e-6d123d0043be.png)
 
+## Get Started
+```
+pipenv shell (root)
+cd expenses website
+python manage.py runserver
+```
 
 ## Project Demo
 This section will be updated soon. Thank you.
