@@ -20,6 +20,10 @@ The purpose of this software is to make personal finance management 10x simpler.
 I wanted to built and end-to-end application with a frontend, backend, and database. I chose to build Hi-Expense with Python (Django) and JavaScript as they allow for easier implementation of certain functionality such as authentication, and search. 
 I also picked up JavaScript in the Summer of 2021. This project let me further explore the power of it. 
 
+## Hi-Expense
+![image](https://user-images.githubusercontent.com/69721558/158034079-450a79c5-469b-4b04-8e4e-6d123d0043be.png)
+
+
 ## Project Demo
 This section will be updated soon. Thank you.
 
